@@ -16,7 +16,7 @@ The project uses the Chinook sample database, which represents a digital media s
 
 The database schema is as follows:
 
-![Chinook Schema](https://i.imgur.com/V72cQ21.png)
+![Chinook Schema](chinook_schema.png)
 
 ---
 
