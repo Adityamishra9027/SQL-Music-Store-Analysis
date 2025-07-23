@@ -11,6 +11,15 @@ This project is a comprehensive analysis of the Chinook Music Store database, a 
 
 ---
 
+## 💾 Database Schema
+The project uses the Chinook sample database, which represents a digital media store. The complete schema script (`Chinook_MySql.sql`) used for setting up the database is included in this repository.
+
+The database schema is as follows:
+
+![Chinook Schema](https://i.imgur.com/V72cQ21.png)
+
+---
+
 ## ❓ Business Questions Answered
 I used SQL to find answers to the following key questions:
 
