@@ -1,6 +1,8 @@
 -- SQL ANALYSIS OF THE CHINOOK MUSIC STORE DATABASE
 
+
 -- Question 1: What are the top 3 countries for sales?
+
 SELECT BillingCountry,
 sum(Total) AS TotalSales
 FROM Invoice
@@ -41,9 +43,9 @@ Limit 1;
 -- Question 4: Find all customers who listen to Rock music.
 
 SELECT DISTINCT
-    c.Email,
-    c.FirstName,
-    c.LastName
+c.Email,
+c.FirstName,
+c.LastName
 FROM Customer as c
 JOIN Invoice as i ON c.CustomerID = i.CustomerID
 JOIN InvoiceLine as il ON i.InvoiceID = il.InvoiceID
