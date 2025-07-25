@@ -1,4 +1,4 @@
--- SQL ANALYSIS OF THE CHINOOK MUSIC STORE DATABASE
+--- SQL ANALYSIS OF THE CHINOOK MUSIC STORE DATABASE
 
 
 -- Question 1: What are the top 3 countries for sales?
