@@ -12,11 +12,11 @@ This project is a comprehensive analysis of the Chinook Music Store database, a 
 ---
 
 ## 💾 Database Schema
-The project uses the Chinook sample database, which represents a digital media store. The complete schema script (`Chinook_MySql.sql`) used for setting up the database is included in this repository.
+The project uses the Chinook sample database, which represents a digital media store. The complete schema script (`Chinook_MySql.sql`) used for setting up the database is included in this repository in 'Dataset' folder.
 
 The database schema is as follows:
 
-![Chinook Schema](chinook_schema.png)
+![Chinook Schema](Dataset/chinook_schema.png)
 
 ---
 
