@@ -1,17 +1,17 @@
-# SQL Analysis of the Chinook Music Store 🎵
+# SQL Analysis of the Chinook Music Store 
 
 ## Introduction
 This project is a comprehensive analysis of the Chinook Music Store database, a sample database representing a digital media store. I have leveraged SQL to query the database, performing tasks like data retrieval, multi-table joins, aggregations, and subqueries to answer critical business questions and uncover actionable insights.
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 * **Database:** MySQL
 * **IDE:** MySQL Workbench
 
 ---
 
-## 💾 Database Schema
+##  Database Schema
 The project uses the Chinook sample database, which represents a digital media store. The complete schema script (`Chinook_MySql.sql`) used for setting up the database is included in this repository in 'Dataset' folder.
 
 The database schema is as follows:
@@ -20,7 +20,7 @@ The database schema is as follows:
 
 ---
 
-## ❓ Business Questions Answered
+##  Business Questions Answered
 I used SQL to find answers to the following key questions:
 
 1.  **Top Sales Performance:** Which are the top 3 countries contributing to sales?
